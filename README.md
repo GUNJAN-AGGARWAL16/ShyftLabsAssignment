@@ -12,9 +12,11 @@ Answer 2:
 Chess Game
 
 1.Board Setup
+
 ![image](https://github.com/GUNJAN-AGGARWAL16/ShyftLabsAssignment/assets/76522256/a9c98f5e-71eb-41df-a9d4-18d75075385d)
 
 2. Working of Chess Board
+
 ![image](https://github.com/GUNJAN-AGGARWAL16/ShyftLabsAssignment/assets/76522256/1c9c3651-19fb-43cc-a4db-b112897e4860)
 
 
