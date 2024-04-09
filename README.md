@@ -1,4 +1,5 @@
-Answer 1: 
+# Answer 1: 
+
 1. The 'findIndex' function effectively solves the problem by iterating through the input ArrayList until it finds the first occurrence of -1. It then returns the index where -1 is found.
 2. The 'main' function handles user input, populating the ArrayList with positive integers until -1 is entered. It then calls the 'findIndex' function to find the desired index and prints the result.
 
@@ -7,7 +8,7 @@ Answer 1:
 ![image](https://github.com/GUNJAN-AGGARWAL16/ShyftLabsAssignment/assets/76522256/8a008dc9-54b0-4d2f-a4d7-7f710411edfa)
 
 
-Answer 2:
+# Answer 2:
 
 Chess Game
 
